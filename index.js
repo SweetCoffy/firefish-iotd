@@ -30,7 +30,7 @@ const client = new firefish.api.APIClient({
 })
 
 function findInstance() {
-    let i = counter++ % instances.length
+    let i = ++counter % instances.length
     let instance = instances[i]
     return instance
 }
