@@ -43,6 +43,6 @@ async function postInstance() {
         text: `Today's instance is [${instance}](${url})!`
     })
 }
+await postInstance()
 writeFileSync("counter.txt", counter.toString())
-postInstance()
 

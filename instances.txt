@@ -2,6 +2,10 @@ lea.pet
 miruku.cafe
 tech.lgbt
 firefish.social
+mastodon.gamedev.place
 misskey.io
+mastodon.social
 wetdry.world
 lethallava.land
+0w0.is
+stop.voring.me
