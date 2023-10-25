@@ -48,6 +48,8 @@ woem.space
 raru.re
 void.rehab
 misskey.heonian.org
+fedi.software
+calckey.art
 froggie.gay
 fedi.nano.lgbt
 fuckgov.org
